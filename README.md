@@ -60,13 +60,19 @@
 ---
 
 ## 🏅 LeetCode Badge
-<td>
- <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60">
-  <br>
-  <strong>50 Days Badge - 2025</strong>
-</p>
-</td>
+
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60"><br>
+      <strong>50 Days Badge - 2025</strong>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60"><br>
+      <strong>100 Days Badge - 2025</strong>
+    </td>
+  </tr>
+</table>
 
 
 ---
