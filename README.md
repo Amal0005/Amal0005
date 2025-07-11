@@ -60,11 +60,14 @@
 ---
 
 ## 🏅 LeetCode Badge
-<p align="center">
+<td>
+ <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60">
   <br>
   <strong>50 Days Badge - 2025</strong>
 </p>
+</td>
+
 
 ---
 
