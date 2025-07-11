@@ -65,11 +65,11 @@
   <tr>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60"><br>
-      <strong>50 Days Badge - 2025</strong>
+      <strong>50 Days Badge</strong>
     </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60"><br>
-      <strong>100 Days Badge - 2025</strong>
+      <strong>100 Days Badge</strong>
     </td>
   </tr>
 </table>
