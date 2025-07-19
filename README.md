@@ -58,7 +58,24 @@
 </p>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Amal0005&theme=tokyonight)](https://git.io/streak-stats)
+## 📊 GitHub Stats & Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amal1234&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amal1234&show_icons=true&theme=tokyonight&rank_icon=github" alt="Amal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal1234&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<!-- Optional visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amal1234&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ## 🏅 LeetCode Badge
 
