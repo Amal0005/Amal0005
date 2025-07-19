@@ -8,14 +8,31 @@
 
 ---
 
-🌟 **About Me**
-- 🔭 Currently learning and building as a **Full Stack Developer**.  
-- 🌱 Passionate about **JavaScript, MERN stack, and backend development**.  
-- 🚀 Exploring **MongoDB, Express.js, React.js, Node.js** through real-world projects.  
-- 💡 Believer in **learning by doing** and daily problem solving.  
-- 🎯 On a mission to build scalable and useful web apps.  
-- 💬 Ask me about **DSA, Node.js, and productivity hacks**.  
-- ⚡ Fun fact: **Consistency is my superpower!**
+## 🌟 About Me
+
+👋 Hey there! I'm **Amal**, a passionate and persistent **Full Stack Developer** always ready to learn, build, and grow.
+
+- 👨‍💻 Turning coffee into clean, scalable code — daily.
+- 🔭 Currently mastering the **MERN stack** – MongoDB, Express.js, React.js, and Node.js.
+- 💡 I believe in **learning by doing** – because tutorials don’t build real apps.
+- 🔧 I build side projects to solve real-world problems (and break things to learn faster 😉).
+- 🧠 Fascinated by **Data Structures & Algorithms** – I treat them like brain workouts.
+- 💬 Ask me about **Node.js**, backend logic, or productivity hacks that actually work.
+- 🌱 Constantly upskilling – one repo, one commit, one bug fix at a time.
+- ⚡ Fun fact: **Consistency is my superpower** – I show up even when motivation doesn’t.
+
+---
+
+🛠️ *Tech I Love Working With:*
+
+`JavaScript` | `Node.js` | `Express.js` | `React` | `MongoDB` | `HTML` | `CSS` | `Git` | `Postman` | `VS Code`
+
+---
+
+📈 *Let's Connect & Collaborate!*  
+Feel free to reach out for tech discussions, collaboration, or cool project ideas!
+
+
 
 ---
 
