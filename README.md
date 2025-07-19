@@ -58,6 +58,7 @@
 </p>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Amal0005&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🏅 LeetCode Badge
 
