@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Amal!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;100+Days+LeetCode+Streak+🔥;Problem+Solving+Addict+🧠;Building+the+Future+⚡" alt="Typing Animation" />
-</div>
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;100+Days+LeetCode+Streak+🔥;Problem+Solving+Addict+🧠;Building+the+Future+⚡" alt="Typing Animation" />
+</div> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Animation"/>
