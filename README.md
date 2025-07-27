@@ -68,8 +68,9 @@ Feel free to reach out for tech discussions, collaboration, or cool project idea
 ## 🚀 GitHub Profile Insights & Highlights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amal0005&theme=tokyonight&cache_bust=2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Amal0005&theme=tokyonight&cache_bust=123" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amal0005&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
