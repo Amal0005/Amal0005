@@ -1,11 +1,23 @@
-# 👋 Hello, I'm Amal!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,3&height=300&section=header&text=Hello%20World!%20I'm%20Amal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Solutions%20%7C%20One%20Line%20at%20a%20Time&descAlignY=55&descAlign=50"/>
+</div>
 
 <div align="center">
-<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;100+Days+LeetCode+Streak+🔥;Problem+Solving+Addict+🧠;Building+the+Future+⚡" alt="Typing Animation" />
-</div> -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Specialist;🔥+100+Days+LeetCode+Champion;🧠+Algorithm+Enthusiast;⚡+Turning+Ideas+into+Reality" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
@@ -67,10 +79,11 @@ const amal = {
 ### **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Databases & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -182,9 +195,9 @@ graph LR
 ```text
 JavaScript   12 hrs 45 mins  ████████████▓░░░░  68.2%
 TypeScript    3 hrs 15 mins  ███▒░░░░░░░░░░░░░  17.4%
-Python        1 hr 30 mins   ██░░░░░░░░░░░░░░░   8.1%
+React         1 hr 30 mins   ██░░░░░░░░░░░░░░░   8.1%
 JSON          45 mins        █░░░░░░░░░░░░░░░░   4.1%
-Other         25 mins        ▓░░░░░░░░░░░░░░░░   2.2%
+CSS           25 mins        ▓░░░░░░░░░░░░░░░░   2.2%
 ```
 <!--END_SECTION:waka-->
 
