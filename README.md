@@ -69,7 +69,7 @@ const Amal = {
 
 ### **Frontend Development**
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM2ZHc2d21zbGxxdXNuZ3ZjZnR5bjltaWFkMTdnZmRhZ3JyNzM4eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="400" alt="Coding Animation"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1ZmZjNjI3MXRwaXhmZHZ1ZnlrbnJndzNqejh3ZzRudGUzZWg1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
 
 
