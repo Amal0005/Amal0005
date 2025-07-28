@@ -68,9 +68,7 @@ const Amal = {
 <div align="center">
 
 ### **Frontend Development**
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM2ZHc2d21zbGxxdXNuZ3ZjZnR5bjltaWFkMTdnZmRhZ3JyNzM4eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif)" width="400" alt="Coding Animation"/>
-</div>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
