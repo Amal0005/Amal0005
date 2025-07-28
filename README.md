@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Expert;🔥+100+Days+LeetCode+Champion;🧠+Algorithm+Enthusiast;⚡+Building+Digital+Solutions;🌟+Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY2NWozbWRueXlyazJwYW1qbmpjenhnNmk5bWRnMHB3aTZ3N2VueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" alt="Typing Animation" />
 </div>
 
 <br>
