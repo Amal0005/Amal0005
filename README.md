@@ -69,7 +69,7 @@ const Amal = {
 
 ### **Frontend Development**
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM2ZHc2d21zbGxxdXNuZ3ZjZnR5bjltaWFkMTdnZmRhZ3JyNzM4eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif)" width="400" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM2ZHc2d21zbGxxdXNuZ3ZjZnR5bjltaWFkMTdnZmRhZ3JyNzM4eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif)" width="400" alt="Coding Animation"/>
 </div>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
