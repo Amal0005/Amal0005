@@ -26,12 +26,12 @@
 
 ### ⚡ **Quick Stats**
 ```javascript
-const amal = {
+const Amal = {
     location: "Kerala, India 🇮🇳",
     role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript", "Python"],
+    languages: ["JavaScript", "TypeScript"],
     frameworks: ["React", "Node.js", "Express"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    databases: ["MongoDB", "PostgreSQL", "Firebase"],
     challenge: "200+ LeetCode problems solved",
     motto: "Code, Learn, Repeat 🔄"
 };
@@ -78,19 +78,16 @@ const amal = {
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### **Databases & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -113,11 +110,7 @@ const amal = {
 
 ---
 
-## 🏆 **Achievements & Highlights**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amal0005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
 
 <div align="center">
 
