@@ -109,7 +109,7 @@ const amal = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amal0005&theme=radical&hide_border=true&stroke=F85D7F&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?username=Amal0005&theme=radical&hide_border=true&stroke=F85D7F&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
