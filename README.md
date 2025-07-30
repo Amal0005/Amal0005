@@ -112,7 +112,7 @@ const Amal = {
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=00000000&color=00ffe0&line=00bbff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
