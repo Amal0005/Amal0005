@@ -110,8 +110,9 @@ const Amal = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=00000000&color=00ffe0&line=00bbff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </div>
+
 
 ---
 
