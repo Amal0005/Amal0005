@@ -111,8 +111,7 @@ const Amal = {
 
 ## 📈 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amal0005&show_icons=true&theme=transparent&hide_border=true&text_color=00ffe0&icon_color=00bbff&title_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal0005&theme=transparent&hide_border=true&stroke=00ffe0&ring=00bbff&fire=ff6b6b&currStreakLabel=00ffe0" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Amal0005/Amal0005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
