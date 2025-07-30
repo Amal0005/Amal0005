@@ -109,9 +109,12 @@ const Amal = {
   <img src="https://streak-stats.demolab.com/?user=Amal0005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+## 📈 GitHub Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=00000000&color=00ffe0&line=00bbff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=00000000&color=00ffe0&line=00bbff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
 </div>
+
 
 
 ---
