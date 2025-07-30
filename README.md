@@ -110,8 +110,8 @@ const Amal = {
 </div>
 
 ## 📈 GitHub Activity Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Amal0005/Amal0005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center" style="padding: 20px; background: linear-gradient(45deg, rgba(0, 255, 224, 0.05), rgba(0, 187, 255, 0.05)); border-radius: 15px; animation: pulse 3s infinite;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=00000000&color=00ffe0&line=00bbff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" style="filter: drop-shadow(0 0 15px #00ffe0);"/>
 </div>
 
 
