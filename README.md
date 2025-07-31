@@ -106,8 +106,8 @@ const Amal = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amal0005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+  <img src="https://streak-stats.demolab.com?user=Amal0005&theme=tokyonight" alt="GitHub Streak" />
+  </div>
 
 ## 📈 GitHub Activity Graph
 <div align="center" style="padding: 20px; background: linear-gradient(45deg, rgba(0, 255, 224, 0.05), rgba(0, 187, 255, 0.05)); border-radius: 15px; animation: pulse 3s infinite;">
