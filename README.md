@@ -153,37 +153,6 @@ const Amal = {
 
 ---
 
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-### **🌟 Recent Work**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal0005&repo=mern-ecommerce&theme=tokyonight&hide_border=true)](https://github.com/Amal0005/mern-ecommerce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal0005&repo=leetcode-solutions&theme=tokyonight&hide_border=true)](https://github.com/Amal0005/leetcode-solutions)
-
-### **💡 Project Highlights**
-- 🛒 **E-Commerce Platform**: Full-stack MERN application with payment integration
-- 📱 **Social Media App**: Real-time chat, posts, and user interactions
-- 🎯 **Algorithm Visualizer**: Interactive data structure and algorithm demonstrations
-- 🌤️ **Weather Dashboard**: React app with geolocation and forecast features
-
-</div>
-
----
-
-
-
-
-### **🎯 Key Learning Goals**
-- 🏗️ **System Design**: Scalable architecture patterns and microservices
-- ⚡ **Performance**: Advanced React optimization and Next.js features
-- ☁️ **Cloud Native**: AWS services, Docker, and Kubernetes
-- 🤝 **Leadership**: Mentoring developers and leading technical initiatives
-- 🔧 **DevOps**: CI/CD pipelines and infrastructure as code
-
----
-
 ## 📈 **Weekly Development Activity**
 
 <div align="center">
@@ -196,8 +165,6 @@ React         1 hr 45 mins   ██░░░░░░░░░░░░░░░
 CSS           35 mins        █░░░░░░░░░░░░░░░░   2.8%
 ```
 <!--END_SECTION:waka-->
-
-**📊 This Week**: 20+ hours of coding | 5 commits | 2 new features deployed
 
 </div>
 
