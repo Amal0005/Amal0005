@@ -70,7 +70,7 @@ const Amal = {
 
 ### **Frontend Development**
 <div align="center">
-  <img src="https://www.flaticon.com/free-animated-icon/physics_6454035?term=react&page=1&position=1&origin=tag&related_id=6454035"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ1aWU4bWt2MW1xeG9kbXI2MTAyc3Fxb3NnZTFqc3o5d2h0c2t6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFmw13LV1hHhViPPWz/giphy.gif"/>
 </div>
 
 
