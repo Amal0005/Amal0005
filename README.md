@@ -70,7 +70,7 @@ const Amal = {
 
 ### **Frontend Development**
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=t5K2CR8feVdX&format=png&color=000000" width="400" alt="Coding Animation"/>
+  <img src="https://cdn-icons-mp4.flaticon.com/512/6454/6454035.mp4" width="400" alt="Coding Animation"/>
 </div>
 
 
