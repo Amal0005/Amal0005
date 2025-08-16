@@ -70,7 +70,7 @@ const Amal = {
 
 ### **Frontend Development**
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1ZmZjNjI3MXRwaXhmZHZ1ZnlrbnJndzNqejh3ZzRudGUzZWg1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="400" alt="Coding Animation"/>
+  <img src="https://img.icons8.com/?size=100&id=t5K2CR8feVdX&format=png&color=000000" width="400" alt="Coding Animation"/>
 </div>
 
 
