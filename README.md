@@ -36,7 +36,6 @@ const Amal = {
     challenge: "200+ LeetCode problems solved",
     motto: "Code, Learn, Repeat 🔄"
 };
-```
 
 </td>
 <td width="50%" valign="top">
