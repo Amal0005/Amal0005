@@ -177,16 +177,6 @@ CSS           35 mins        █░░░░░░░░░░░░░░░░
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amal_dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mj0pz5pmPE)
 
-### **🤝 Open for Opportunities**
-💼 **Full Stack Development** | 🚀 **Open Source Collaboration** | 🎓 **Mentoring** | 💡 **Innovative Projects**
-
-### **💬 Let's Talk About**
-- MERN Stack development and best practices
-- Data structures and algorithm optimization
-- System design and scalable architectures
-- Career growth in tech industry
-- Open source contribution strategies
-
 </div>
 
 ---
