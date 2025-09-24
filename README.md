@@ -111,8 +111,9 @@ const Amal = {
 
 ### 📈 GitHub Activity Graph
 <a href="https://github.com/Amal0005">
-  <img src="animated-contributions.gif" width="850" height="300" alt="Contribution Constellation"/>
+  <img src="animated-contributions.svg" width="850" height="300" alt="Contribution Constellation"/>
 </a>
+
 
 
 <div align="center">
