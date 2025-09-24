@@ -111,10 +111,9 @@ const Amal = {
 
 ### 📈 GitHub Activity Graph
 <a href="https://github.com/Amal0005">
-  <img src="https://raw.githubusercontent.com/Amal0005/yourrepo/main/animated-contributions.svg" 
-       width="850" height="300" alt="Contribution Constellation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
+       width="850" height="300" alt="Contribution Graph"/>
 </a>
-
 
 
 <div align="center">
@@ -145,23 +144,6 @@ const Amal = {
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="120" alt="100 Days Badge"/>
 
 **🔥 Problems Solved: 200+ | Streak: 100+ Days | Rating: Growing!**
-
-</div>
-
----
-
-## 📈 **Weekly Development Activity**
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   14 hrs 30 mins  █████████████▓░░░  70.5%
-TypeScript    3 hrs 45 mins  ███▓░░░░░░░░░░░░░  18.2%
-React         1 hr 45 mins   ██░░░░░░░░░░░░░░░   8.5%
-CSS           35 mins        █░░░░░░░░░░░░░░░░   2.8%
-```
-<!--END_SECTION:waka-->
 
 </div>
 
