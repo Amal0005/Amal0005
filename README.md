@@ -111,11 +111,9 @@ const Amal = {
 
 ### 📈 GitHub Activity Graph
 <a href="https://github.com/Amal0005">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" 
        width="850" height="300" alt="Contribution Graph"/>
 </a>
-
-
 <div align="center">
 
 ### **🎯 Major Milestones**
