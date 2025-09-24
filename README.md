@@ -110,17 +110,10 @@ const Amal = {
 </div>
 
 ### 📈 GitHub Activity Graph
-<!-- Include GitHub Calendar -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-calendar/dist/github-calendar.css"/>
-<script src="https://cdn.jsdelivr.net/npm/github-calendar/dist/github-calendar.min.js"></script>
+<a href="https://github.com/Amal0005">
+  <img src="animated-contributions.gif" width="850" height="300" alt="Contribution Constellation"/>
+</a>
 
-<div class="calendar" id="github-graph"></div>
-
-<script>
-  new GitHubCalendar("#github-graph", "Amal0005", { responsive: true });
-</script>
-
----
 
 <div align="center">
 
