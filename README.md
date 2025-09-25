@@ -192,7 +192,7 @@ const Amal = {
 ![Stars](https://img.shields.io/github/stars/Amal0005?color=0891b2&style=for-the-badge)
 
 ### **☕ Support My Journey**
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amal0005)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amalforpcl)
 
 ---
 
