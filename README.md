@@ -140,6 +140,8 @@ const Amal = {
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120" alt="50 Days Badge"/>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="120" alt="100 Days Badge"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="120" alt="200 Days Badge"/>
+
 
 **🔥 Problems Solved: 200+ | Streak: 100+ Days | Rating: Growing!**
 
