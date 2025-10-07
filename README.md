@@ -67,11 +67,6 @@ const Amal = {
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
-
-### **Frontend Development**
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ1aWU4bWt2MW1xeG9kbXI2MTAyc3Fxb3NnZTFqc3o5d2h0c2t6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFmw13LV1hHhViPPWz/giphy.gif"/>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode,tailwind,bootstrap,postman,vercel,figma" />
 </p>
@@ -116,7 +111,8 @@ const Amal = {
 
 ### **🎯 LeetCode Achievement**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-100_Days_Champion-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mj0pz5pmPE)
+[![LeetCode](https://img.shields.io/badge/200_Days_Champion-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Mj0pz5pmPE)
+
 
 <div style="text-align: center;">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100" alt="50 Days Badge" style="margin: 0 20px;">
@@ -148,6 +144,10 @@ const Amal = {
 </div>
 
 ---
+### 🧩 LeetCode & Coding Journey
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Amalnt?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ## 🎵 **Current Coding Vibes**
 
