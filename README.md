@@ -149,17 +149,6 @@ const Amal = {
   <img src="https://leetcard.jacoblin.cool/Amalnt?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-## 🎵 **Current Coding Vibes**
-
-<div align="center">
-  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/username)
-
-*🎧 Currently Playing: Lo-fi Hip Hop • Chillhop Essentials • Coding Jazz*
-
-**🎶 Perfect coding atmosphere for deep focus sessions**
-
-</div>
 
 ---
 
