@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,3&height=300&section=header&text=Hey%20There!%20I'm%20Amal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50"/>
 </div>
 <br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif" />
 </p>
