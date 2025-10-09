@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,3&height=300&section=header&text=Hey%20There!%20I'm%20Amal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50"/>
 </div>
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3cTJ2MzM4c29tdzFybHo5azRwN21wMDdtemQ0ejJzemI0MnFodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" style="width:300px; height:auto;" alt="Coding gif" />
+<img src="https://lottiefiles.com/free-animation/programming-H34danRUfC" style="width:300px; height:auto;" alt="Coding gif" />
 </p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
