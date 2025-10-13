@@ -130,8 +130,9 @@ const Amal = {
 <p align="center">
   <a href="https://linkedin.com/in/amal-nt-712b68247" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/Amal" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:amalnt31@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+<a href="mailto:amalnt31@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a></p>
 
 
 ---
