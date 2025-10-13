@@ -127,12 +127,19 @@ const Amal = {
 
 ## 🌐 **Let's Connect & Collaborate**
 
-<p align="center">
-  <a href="https://linkedin.com/in/amal-nt-712b68247" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Amal" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:amalnt31@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a></p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amal-nt-712b68247" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="mailto:amalnt31@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  <a href="https://leetcode.com/u/Amalnt/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" style="border-radius: 10px; background-color: #1a1a1a; padding: 5px;" />
+  </a>
+
+</div>
 
 
 ---
