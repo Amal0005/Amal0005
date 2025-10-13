@@ -65,9 +65,9 @@ const Amal = {
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode,tailwind,bootstrap,postman,vercel,figma" />
-</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,figma" />
+  </p>
 </div>
 ---
 
