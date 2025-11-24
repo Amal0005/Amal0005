@@ -121,7 +121,7 @@ const Amal = {
   <img src="https://leetcard.jacoblin.cool/Amalnt?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-**🔥 Problems Solved: 200+ | Streak: 100+ Days | Rating: Growing!**
+**🔥 Problems Solved: 300+ | Streak: 200+ Days | Rating: Growing!**
 
 </div>
 
