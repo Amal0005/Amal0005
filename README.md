@@ -81,8 +81,6 @@ const Amal = {
 </a>
 <div align="center">
 
-## 💻 **Coding Journey**
-
 <div align="center">
 
 ### **🎯 LeetCode Achievement**
@@ -102,8 +100,6 @@ const Amal = {
 **🔥 Problems Solved: 300+ | Streak: 200+ Days | Rating: Growing!**
 
 </div>
-
----
 
 ## 🌐 **Let's Connect & Collaborate**
 
