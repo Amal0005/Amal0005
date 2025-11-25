@@ -89,20 +89,6 @@ const Amal = {
 </a>
 <div align="center">
 
-### **🎯 Major Milestones**
-
-| 🏅 **Achievement** | 📊 **Progress** | 🎯 **Impact** |
-|:------------------:|:---------------:|:-------------:|
-| 🔥 **LeetCode 100 Days** | ✅ **COMPLETED** | 200+ problems solved |
-| 🎤 **Tech Presentations** | ✅ **DELIVERED** | MongoDB & Hyperloop seminars |
-| 🏗️ **MERN Projects** | 🚀 **ACTIVE** | 5+ full-stack applications |
-| 📚 **DSA Mastery** | 📈 **ONGOING** | Advanced algorithms & patterns |
-| 🌟 **Open Source** | 🎯 **CONTRIBUTING** | Community impact projects |
-
-</div>
-
----
-
 ## 💻 **Coding Journey**
 
 <div align="center">
