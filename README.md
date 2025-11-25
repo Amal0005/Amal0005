@@ -69,13 +69,6 @@ const Amal = {
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,figma" />
   </p>
 </div>
----
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amal0005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal0005&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Amal0005&theme=tokyonight" alt="GitHub Streak" />
