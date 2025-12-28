@@ -102,18 +102,26 @@ const Amal = {
 
 ## 🌐 **Let's Connect & Collaborate**
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/amal-nt-712b68247" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://leetcode.com/Amalnt" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40" />
-  </a>
-  <a href="mailto:amalnt31@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
+<div style="display:flex; gap:10px; align-items:center;">
+  <a href="https://www.linkedin.com/in/amal-nt-712b68247" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="object-fit:contain;" alt="LinkedIn Profile">
   </a>
 
+  <a href="https://leetcode.com/Amalnt" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+      width="40"
+      height="40"
+      style="border-radius:10px; background:#111; padding:6px; object-fit:contain;"
+      alt="LeetCode Profile"
+    >
+  </a>
+
+  <a href="mailto:amalnt31@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" style="object-fit:contain;" alt="Email Amal">
+  </a>
 </div>
+
 
 
 ---
@@ -126,11 +134,6 @@ const Amal = {
 ### **☕ Support My Journey**
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amalforpcl)
 
----
-
-**💡 "The best error message is the one that never shows up."** - *Thomas Fuchs*
-
-**🚀 Ready to build something extraordinary together?**
 
 </div>
 
