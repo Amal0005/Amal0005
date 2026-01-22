@@ -70,7 +70,10 @@ const Amal = {
 </div>
 
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=Amal0005&theme=tokyonight)
+  <img
+    src="https://streak-stats.demolab.com?user=Amal0005&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </div>
 
 ### 📈 GitHub Activity Graph
