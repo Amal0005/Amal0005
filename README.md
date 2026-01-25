@@ -58,7 +58,6 @@ const Amal = {
 </td>
 </tr>
 </table>
-<br>
 
 
 ## 🛠️ **Tech Arsenal**
