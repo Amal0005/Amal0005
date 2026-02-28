@@ -89,10 +89,10 @@ const Amal = {
 [![LeetCode](https://img.shields.io/badge/200_Days_Champion-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Mj0pz5pmPE)
 
 
-<div style="text-align: center;">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="140" alt="200 Days Badge" style="margin: 0 20px;">
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" width="100" alt="365 Days Badge" style="margin: 0 20px;"> 
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="100" alt="100 Days Badge" style="margin: 0 20px;">
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="110" alt="100 Days Badge" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="110" alt="200 Days Badge" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" width="110" alt="365 Days Badge" />
 </div>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Amalnt?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
