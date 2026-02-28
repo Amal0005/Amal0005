@@ -90,8 +90,8 @@ const Amal = {
 
 
 <div style="text-align: center;">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100" alt="50 Days Badge" style="margin: 0 20px;">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="140" alt="200 Days Badge" style="margin: 0 20px;">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" width="100" alt="365 Days Badge" style="margin: 0 20px;"> 
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="100" alt="100 Days Badge" style="margin: 0 20px;">
 </div>
 <p align="center">
