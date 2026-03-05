@@ -86,7 +86,7 @@ const Amal = {
 
 ### **🎯 LeetCode Achievement**
 
-[![LeetCode](https://img.shields.io/badge/200_Days_Champion-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Mj0pz5pmPE)
+[![LeetCode](https://img.shields.io/badge/365_Days_Champion-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Mj0pz5pmPE)
 
 <div align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="110" alt="100 Days Badge" />
