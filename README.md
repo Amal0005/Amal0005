@@ -97,7 +97,7 @@ const Amal = {
   <img src="https://leetcard.jacoblin.cool/Amalnt?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-**🔥 Problems Solved: 300+ | Streak: 200+ Days | Rating: Growing!**
+**🔥 Problems Solved: 400+ | Streak: 200+ Days | Rating: Growing!**
 
 </div>
 
