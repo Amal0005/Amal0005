@@ -22,18 +22,6 @@
 - 📚 Contributing to open source projects
 - 🎯 Learning cloud architecture (AWS)
 
-### ⚡ **Quick Stats**
-```javascript
-const Amal = {
-    location: "Kerala, India 🇮🇳",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript"],
-    frameworks: ["React", "Node.js", "Express"],
-    databases: ["MongoDB", "PostgreSQL", "Firebase"],
-    challenge: "200+ LeetCode problems solved",
-    motto: "Code, Learn, Repeat 🔄"
-};
-```
 
 </td>
 <td width="50%" valign="top">
