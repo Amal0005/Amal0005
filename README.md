@@ -45,7 +45,7 @@
   <img src="https://leetcard.jacoblin.cool/Amalnt?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-**🔥 Problems Solved: 400+ | Streak: 200+ Days | Rating: Growing!**
+**🔥 Problems Solved: 400+ | Streak: 300+ Days | Rating: Growing!**
 
 </div>
 
@@ -70,11 +70,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" style="object-fit:contain;" alt="Email Amal">
   </a>
 </div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
 
 ### **☕ Support My Journey**
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amalforpcl)
