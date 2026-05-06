@@ -8,46 +8,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-
-## 🚀 **About Me**
-
-<table border="0" align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 **Current Focus**
-- ✅ **100 Days LeetCode Challenge COMPLETED**
-- 🌟 Building scalable MERN applications
-- 🛠️ Mastering system design patterns
-- 📚 Contributing to open source projects
-- 🎯 Learning cloud architecture (AWS)
-
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 **My Approach**
-> *"First, solve the problem. Then, write the code."* - John Johnson
-
-### 💡 **What Drives Me**
-- 🧩 **Problem Solving**: Complex algorithms and data structures
-- 🚀 **Innovation**: Creating impactful digital solutions
-- 📈 **Growth**: Continuous learning and improvement
-- 🤝 **Community**: Knowledge sharing and collaboration
-- 💪 **Persistence**: Never giving up on challenging problems
-
-### 🎪 **Beyond Code**
-- 🎵 Coding with lo-fi beats
-- 🌙 Night owl programmer
-- 🐛 Debugging detective
-- 🏆 Competitive programming enthusiast
-- ☕ Coffee-driven development
-
-</td>
-</tr>
-</table>
-
-
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
