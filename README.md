@@ -115,7 +115,7 @@ Currently focused on building scalable applications and sharpening my problem-so
 ![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=flat-square&logo=vercel&logoColor=ffffff)&nbsp;
 ![Amplify](https://img.shields.io/badge/Amplify-1a1a2e?style=flat-square&logo=awsamplify&logoColor=FF9900)&nbsp;
 ![S3](https://img.shields.io/badge/S3_Bucket-1a1a2e?style=flat-square&logo=amazons3&logoColor=569A31)&nbsp;
-![Razorpay](https://img.shields.io/badge/Razorpay-1a1a2e?style=flat-square&logo=razorpay&logoColor=02042B)&nbsp;
+![Razorpay](https://img.shields.io/badge/Razorpay-1a1a2e?style=flat-square&logo=razorpay&logoColor=528FF0)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=flat-square&logo=postman&logoColor=FF6C37)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
 ![DSA](https://img.shields.io/badge/DSA-1a1a2e?style=flat-square&logo=leetcode&logoColor=FFA116)
@@ -156,32 +156,47 @@ Currently focused on building scalable applications and sharpening my problem-so
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Amalnt?theme=dark&font=Noto+Sans&ext=heatmap&border=0&radius=4&width=420" width="420"/>
-
-<br/><br/>
-
 <table>
-<tr>
-  <td align="center"><b>400+</b><br/><sub>Problems Solved</sub></td>
-  <td align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  <td align="center"><b>254</b><br/><sub>Current Streak</sub></td>
-  <td align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  <td align="center"><b>2,049</b><br/><sub>Contributions</sub></td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Solved-471-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d0d14&color=0d0d14" />
+    </td>
+  </tr>
+  <tr><td align="center">&nbsp;</td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Easy-402-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Medium-66-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Hard-3-EF4743?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+    </td>
+  </tr>
+  <tr><td align="center">&nbsp;</td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Current_Streak-365_Days-4a9eff?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d0d14&color=0d0d14" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Max_Streak-365%2B_Days-4a9eff?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d0d14&color=0d0d14" />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
+<!-- 100 Days Badge -->
 <a href="https://leetcode.com/Amalnt">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="105" title="100 Days Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="110" title="100 Days Badge"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+<!-- 200 Days Badge -->
 <a href="https://leetcode.com/Amalnt">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="105" title="200 Days Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="110" title="200 Days Badge"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+<!-- 365 Days Badge — personal medal URL -->
 <a href="https://leetcode.com/Amalnt">
-  <img src="https://leetcode.com/medal/?showImg=0&id=9457467&isLevel=false" width="105" title="365 Days Badge"/>
+  <img src="https://leetcode.com/medal/?showImg=0&id=9457467&isLevel=false" width="110" title="365 Days Badge"/>
 </a>
 
 </div>
@@ -192,11 +207,11 @@ Currently focused on building scalable applications and sharpening my problem-so
 
 <br/>
 
+<div align="center"><sub>CONTRIBUTION GRAPH</sub></div>
+
+<br/>
+
 <div align="center">
-
-<sub>CONTRIBUTION GRAPH</sub>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&bg_color=0d0d14&color=4a9eff&line=4a9eff&point=ccccdd&area=true&area_color=1a2a4a&hide_border=true" width="92%"/>
 
