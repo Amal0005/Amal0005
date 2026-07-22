@@ -259,23 +259,23 @@ Currently focused on building scalable applications and sharpening my problem-so
 
 <div align="center">
 
-<!-- Live stats card — pulls real numbers from your LeetCode profile on every page load, so it never goes stale -->
+<!-- Compact stats card — no heatmap, no rank number, kept deliberately small -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Amalnt?theme=dark&font=Cormorant%20Garamond&ext=heatmap">
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/Amalnt?theme=light&font=Cormorant%20Garamond&ext=heatmap">
-  <img width="92%" src="https://leetcard.jacoblin.cool/Amalnt?theme=light&font=Cormorant%20Garamond&ext=heatmap" alt="Amal's LeetCode stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Amalnt?theme=dark&font=Cormorant%20Garamond&show_rank=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/Amalnt?theme=light&font=Cormorant%20Garamond&show_rank=false">
+  <img width="40%" src="https://leetcard.jacoblin.cool/Amalnt?theme=light&font=Cormorant%20Garamond&show_rank=false" alt="Amal's LeetCode stats" />
 </picture>
 
 <br/><br/>
 
-<sub>ANNUAL BADGES <sub>(auto-updates as new milestones are earned — 50 / 100 / 200 / 365 / 500+ check-in days)</sub></sub>
+<sub>MILESTONE BADGES <sub>(200 / 365 / 500 active days)</sub></sub>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=Amalnt&filter=annual&theme=github-dark&border=no-border">
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=Amalnt&filter=annual&theme=light&border=no-border">
-  <img width="92%" src="https://leetcode-badge-showcase.vercel.app/api?username=Amalnt&filter=annual&theme=light&border=no-border" alt="Amal's LeetCode annual check-in badges" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=Amalnt&filter=submission&limit=3&theme=tokyonight&border=no-border">
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=Amalnt&filter=submission&limit=3&theme=mint&border=no-border">
+  <img width="32%" src="https://leetcode-badge-showcase.vercel.app/api?username=Amalnt&filter=submission&limit=3&theme=mint&border=no-border" alt="Amal's 200/365/500-day LeetCode badges" />
 </picture>
 
 <br/>
